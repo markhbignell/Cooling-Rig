@@ -1,0 +1,17 @@
+C:\C-Projects\Cooling Rig\Cooling Rig\bin\Debug\net6.0-windows\Cooling Rig.exe
+C:\C-Projects\Cooling Rig\Cooling Rig\bin\Debug\net6.0-windows\Cooling Rig.deps.json
+C:\C-Projects\Cooling Rig\Cooling Rig\bin\Debug\net6.0-windows\Cooling Rig.runtimeconfig.json
+C:\C-Projects\Cooling Rig\Cooling Rig\bin\Debug\net6.0-windows\Cooling Rig.dll
+C:\C-Projects\Cooling Rig\Cooling Rig\bin\Debug\net6.0-windows\Cooling Rig.pdb
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.csproj.AssemblyReference.cache
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling_Rig.FrmMain.resources
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.csproj.GenerateResource.cache
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.AssemblyInfoInputs.cache
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.AssemblyInfo.cs
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.csproj.CoreCompileInputs.cache
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.dll
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\refint\Cooling Rig.dll
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.pdb
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\Cooling Rig.genruntimeconfig.cache
+C:\C-Projects\Cooling Rig\Cooling Rig\obj\Debug\net6.0-windows\ref\Cooling Rig.dll
